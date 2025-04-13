@@ -1,3 +1,5 @@
+Read on Medium: https://medium.com/@vieira.r.luis/supercharging-llm-fine-tuning-unsloth-lora-and-orpo-for-travel-q-a-classification-on-a-budget-db416f41fa2e
+
 ## Introduction
 
 This project aims to develop a simple text classification system using large language models (LLMs). The model is tasked with categorising travel-related questions into predefined classes. The approach includes prompt design, zero-shot and few-shot testing, as well as supervised fine-tuning (SFT), followed by performance evaluation using metrics such as accuracy.
